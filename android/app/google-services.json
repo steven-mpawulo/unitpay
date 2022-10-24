@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70132718998",
+    "project_id": "unitpayoriginal",
+    "storage_bucket": "unitpayoriginal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70132718998:android:c883c10ba3551abbf611b7",
+        "android_client_info": {
+          "package_name": "com.example.unitpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70132718998-qms084op78kto26je8rfq18lic5fi1mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8G2uiuVrxTthA1HBYd2Xj_V_WPjJS_KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70132718998-qms084op78kto26je8rfq18lic5fi1mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
